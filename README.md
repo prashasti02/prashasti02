@@ -1,16 +1,31 @@
-### Hi there 👋
+## Hey there!!  ^_____^
+### I am Prashasti Sharma, a prefinal year student studying Computer Science with AI speacilization.
 
-<!--
-**prashasti02/prashasti02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me  (～￣▽￣)～
+AI/ML and data science enthusiast with knowledge in data structures and algorithms, advanced knowledge of excel, front-end development abilities with a passion for UI/UX design.
 
-Here are some ideas to get you started:
+## Skills  ᕦ(ò_óˇ)ᕤ
+### Languages \^o^/:
+→ Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+→ C++
+
+→ HTML
+
+→ CSS
+
+→ Javascript
+
+Currently working on learning more new skills such as ✍️(◔◡◔):
+
+→ React Node js
+
+→ SQL
+
+Ongoing projects (ง •_•)ง
+
+→ My own Portfolio using react node js.
+
+→ A website for financial education.
+
+→ AI/ML model to prodict project that deserve to be fundraised.
