@@ -1,5 +1,5 @@
 ## Hey there!!  ^_____^
-### I am Prashasti Sharma, a prefinal year student studying Computer Science with AI speacilization.
+### I am Prashasti Sharma, a Data Analyst Intern At Deloitte and a Final year student studying Computer Science with AI speacilization.
 
 ## About Me  (～￣▽￣)～
 AI/ML and data science enthusiast with knowledge in data structures and algorithms, advanced knowledge of excel, front-end development abilities with a passion for UI/UX design.
