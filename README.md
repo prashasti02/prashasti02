@@ -16,7 +16,7 @@ AI/ML and data science enthusiast with knowledge in big data, advanced knowledge
 
 → SQL
 
-Currently working on learning more on ✍️(◔◡◔):
+Currently working on learning more on ✍(◔◡◔):
 
 → LLM
 
