@@ -118,8 +118,8 @@ Classification, NLP, Computer Vision, and predictive analytics projects.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- 📧 Email: YOUR_EMAIL
+- 💼 LinkedIn: [https://linkedin.com/in/prashasti-sharma-34a42a210/]
+- 📧 Email: pra2002sharma@gmail.com
 
 ---
 
